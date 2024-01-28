@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danielho7
+- 👋 Hi, I’m Daniel!
 - 👀 I’m interested in Machine Learning and AI.
 - 🌱 I’m currently studying Computer Science and Business Administration at USC.
 - 💞️ I’m looking to collaborate on fun projects involving python or C++.
